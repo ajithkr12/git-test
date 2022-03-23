@@ -1,0 +1,11 @@
+1. git init     //Initialized empty Git repository in /home/shiva/Music/git-test/.git/
+2. git add . or git add ./<specific file>
+3. git commit -m "alpha"
+4. git remote add origin <URL>      //git remote add origin https://github.com/ajithkr12/git-test.git
+5. git push -u origin master        //final step
+    after edit repeat step 2,3.5
+    
+    
+    a)  git remote
+    b)  git remote -v
+    c)  git remote remove origin
